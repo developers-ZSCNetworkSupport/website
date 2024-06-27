@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '网络维护科wiki',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        wiki是每一个网维的成员的知识结晶，在浏览wiki的同时，你也可以帮助我们将wiki变得更好
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '开发组文档',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        如果你是开发组的成员，在正式开始接触项目前一定要看一下文档
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '公告',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        这里记载了网络维护科的历史公告
       </>
     ),
   },
