@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '中山学院网络维护科开发组中心页',
-  tagline: 'hahaha',
+  title: '中山学院网络维护科开发组',
+  tagline: '中心页',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
