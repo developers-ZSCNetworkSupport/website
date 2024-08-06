@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '网络维护科wiki',
+    title: 'wiki',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        wiki是每一个网维的成员的知识结晶，在浏览wiki的同时，你也可以帮助我们将wiki变得更好
+        网维的知识库
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        如果你是开发组的成员，在正式开始接触项目前一定要看一下文档
+        开发组的文档
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        这里记载了网络维护科的历史公告
+        公告和博客
       </>
     ),
   },
